@@ -1,6 +1,6 @@
 # Simplified Google Play Music Workflow
 
-This workflow does one thing and one thing only: toggles play/pause on the current track in Google Play Music in Chrome.
+This workflow does a few common things related to the current track in Google Play Music in Chrome.
 
 ## Installation
 
@@ -9,7 +9,8 @@ This workflow does one thing and one thing only: toggles play/pause on the curre
 3. Enjoy!
 
 ## Usage
-`gm`: Play or pause the current track in Google Chrome.
+`gm`: Toggle between play/pause the current track in Google Chrome.
+`gmn`: Skip to the next track
 
 ----
 
