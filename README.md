@@ -6,7 +6,8 @@ This workflow does a few common things related to the current track in Google Pl
 
 1. Download the latest `alfred-google-music.alfredworkflow`
 2. Open from Finder to add to Alfred
-3. Enjoy!
+3. Configure Chrome to allow Javascript execution via AppleScript: https://support.google.com/chrome/?p=applescript
+4. Enjoy!
 
 ## Usage
 `gm`: Toggle between play/pause the current track in Google Chrome.
